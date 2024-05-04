@@ -1,4 +1,4 @@
-# PerfectPick Reverse Proxy API Gateway
+# PerfectPick Reverse Proxy SOAP Interface
 
 Reverse proxy on calls to SOAP seb service.
 
